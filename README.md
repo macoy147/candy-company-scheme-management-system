@@ -1,0 +1,1 @@
+o	The Candy Company Scheme Management System is a tool for managing employees that mimics the structure of a multi-level marketing company using binary trees. In this system, each employee can recruit up to two subordinates (one on the left and one on the right). It also keeps track of their candy collections and gold earnings.
