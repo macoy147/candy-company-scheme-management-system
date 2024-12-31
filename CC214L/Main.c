@@ -24,6 +24,7 @@ int main()
             scanf("%s", rootName);
             root = createNode(rootName, 100);
             printf("'%s' is hired with %d gold\n", rootName, root->gold);
+            
             saveTree(root);
             addChildren(root, root, 90);
         }
