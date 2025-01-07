@@ -1,3 +1,0 @@
-NULL,NULL,A,160,3
-A,left,B,90,0
-A,right,C,90,0
