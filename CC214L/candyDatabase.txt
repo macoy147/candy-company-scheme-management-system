@@ -1,0 +1,15 @@
+NULL,NULL,A,380,14
+A,left,B,210,6
+B,left,D,120,2
+D,left,H,70,0
+D,right,I,70,0
+B,right,E,120,2
+E,left,J,70,0
+E,right,K,70,0
+A,right,C,210,6
+C,left,F,120,2
+F,left,L,70,0
+F,right,M,70,0
+C,right,G,120,2
+G,left,N,70,0
+G,right,O,70,0
